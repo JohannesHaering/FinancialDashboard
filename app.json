@@ -1,0 +1,12 @@
+{
+  "name": "FinancialDashboard",
+  "displayName": "FinancialDashboard",
+  "expo": {
+    "name": "FinancialDashboard",
+    "slug": "FinancialDashboard",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
